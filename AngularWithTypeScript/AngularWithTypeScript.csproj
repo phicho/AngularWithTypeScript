@@ -38,6 +38,7 @@
     <TypeScriptCompile Include="app\common\services\common.services.ts" />
     <TypeScriptCompile Include="app\common\services\dataAccessService.ts" />
     <TypeScriptCompile Include="app\common\services\productResourceMock.ts" />
+    <TypeScriptCompile Include="app\products\product.ts" />
     <TypeScriptCompile Include="app\products\productListCtrl.ts" />
     <TypeScriptCompile Include="scripts\typings\angularjs\angular-animate.d.ts" />
     <TypeScriptCompile Include="scripts\typings\angularjs\angular-component-router.d.ts" />
