@@ -23,7 +23,7 @@ module app.common {
 
         product = new app.domain.Product(3, "Saw", "TBX-002", new Date(2002, 3, 1), 16.95,
             "15-inch steel blade hand saw",
-            "http://openclipart.org/image/300px/svg_to_png/27070/egore911_saw.png");
+            "http://openclipart.or g/image/300px/svg_to_png/27070/egore911_saw.png");
         products.push(product);
 
         product = new app.domain.Product(4, "Hammer", "TBX-0048", new Date(2013, 4, 21), 8.99,
